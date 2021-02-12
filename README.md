@@ -8,7 +8,7 @@ pip install mkdocs-material
 # [MEE6 documentation](http://Mee6.github.io/Mee6-documentation/)
 
 ### Some handy links
-
+FUCK OFF
 * Discord server: [<img src="https://discordapp.com/api/guilds/159962941502783488/widget.png">](https://discord.gg/MEE6)
 * MEE6 Github: [![Git](https://img.shields.io/badge/Github-MEE6-62d3f5.svg?style=flat-square)](https://github.com/cookkkie/mee6)
 * [![Dashboard](https://img.shields.io/badge/MEE6-Dashboard-62d3f5.svg?style=flat-square)](http://mee6.xyz/dashboard) this is where you configure MEE6.
